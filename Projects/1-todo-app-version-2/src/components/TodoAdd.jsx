@@ -1,9 +1,11 @@
+import style from "./TodoAdd.module.css";
+
 function TodoAdd() {
   return (
     <div className="container text-start">
       <div className="row todo-row">
         <div className="col-6">
-          <input type="text" placeholder="Enter todo here" />
+          <input className={style.todoInput} type="text" placeholder="Enter todo here" />
         </div>
         <div className="col-4">
           <input type="date" />

@@ -1,5 +1,4 @@
-function TodoItem ({itemName, itemDate}){
-
+function TodoItem ({itemName, itemDate}) {
 
 return (
   <div className="container text-start">

@@ -1,0 +1,11 @@
+.btnContainer{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-bottom: 10px;
+}
+.btnNumber{
+  width: 45px;
+  height: 45px;
+  margin: 3px;
+}

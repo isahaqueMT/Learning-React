@@ -1,0 +1,9 @@
+.foodItem{
+}
+.foodSpan{
+  font-weight: 500;
+  color: rgb(206, 24, 17);
+}
+.itemBtn{
+  float: right;
+}
